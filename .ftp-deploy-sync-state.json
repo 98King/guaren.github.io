@@ -1,0 +1,369 @@
+{
+    "description": "DO NOT DELETE THIS FILE. This file is used to keep track of which files have been synced in the most recent deployment. If you delete this file a resync will need to be done (which can take a while) - read more: https://github.com/SamKirkland/FTP-Deploy-Action",
+    "version": "1.0.0",
+    "generatedTime": 1708076575595,
+    "data": [
+        {
+            "type": "file",
+            "name": "404.html",
+            "size": 39064,
+            "hash": "6e932261c64ee9632ff7f6275a658abd9caaf95f346a4566974b667837a39795"
+        },
+        {
+            "type": "folder",
+            "name": "anzhiyu"
+        },
+        {
+            "type": "folder",
+            "name": "archives"
+        },
+        {
+            "type": "folder",
+            "name": "categories"
+        },
+        {
+            "type": "folder",
+            "name": "css"
+        },
+        {
+            "type": "file",
+            "name": "favicon.ico",
+            "size": 4286,
+            "hash": "3df58a6a0cd53a0626c87e523947a501def7894205da3920af1d5d3873ee483f"
+        },
+        {
+            "type": "folder",
+            "name": "img"
+        },
+        {
+            "type": "file",
+            "name": "index.html",
+            "size": 51486,
+            "hash": "b87710664e1fe52ad244c4b2a07fbbeba0c61a2ff0af0f4aafc773c7c7e36753"
+        },
+        {
+            "type": "folder",
+            "name": "js"
+        },
+        {
+            "type": "folder",
+            "name": "music"
+        },
+        {
+            "type": "folder",
+            "name": "posts"
+        },
+        {
+            "type": "folder",
+            "name": "tags"
+        },
+        {
+            "type": "file",
+            "name": "anzhiyu/random.js",
+            "size": 167,
+            "hash": "106f2305f9fa9d08ba11f06a94d31b8e90027dce2d1883d51f81bb30c0d49e9c"
+        },
+        {
+            "type": "folder",
+            "name": "archives/2020"
+        },
+        {
+            "type": "folder",
+            "name": "archives/2023"
+        },
+        {
+            "type": "folder",
+            "name": "archives/2024"
+        },
+        {
+            "type": "file",
+            "name": "archives/index.html",
+            "size": 44237,
+            "hash": "0490ead05df225daa7545f6e563b5f8cec31f3b60c0bbf615a533ad74b7b7f43"
+        },
+        {
+            "type": "folder",
+            "name": "categories/生活日常"
+        },
+        {
+            "type": "file",
+            "name": "css/index.css",
+            "size": 682130,
+            "hash": "65cf87f11928ccb19813e0daef9d71ba204d5fb3d156557a3795c867b115ccaa"
+        },
+        {
+            "type": "file",
+            "name": "css/var.css",
+            "size": 0,
+            "hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+        },
+        {
+            "type": "file",
+            "name": "img/404.jpg",
+            "size": 141552,
+            "hash": "511ebd4ca56708c309d7696f47e1fdf29170f8019cf87f7fa4781645d73fbfe2"
+        },
+        {
+            "type": "file",
+            "name": "img/512.png",
+            "size": 4172,
+            "hash": "78faedf1c27aca874bb5b8e47a735dd6684e2ba4193cb1c68bb8b1409ec92174"
+        },
+        {
+            "type": "file",
+            "name": "img/algolia.svg",
+            "size": 4410,
+            "hash": "27917f95d07e6215412f2bb2f22d58806ab721dbb064a503513f90de90d570bd"
+        },
+        {
+            "type": "file",
+            "name": "img/comment_bg.png",
+            "size": 4246,
+            "hash": "75577817c5aa694fa3fa1a7316d48ea04ed64b744d897f816e150fa2af4909d5"
+        },
+        {
+            "type": "file",
+            "name": "img/default_cover.jpg",
+            "size": 14808,
+            "hash": "79a99dca3632fbcd5980fa06a4a9caa386106398cc55428af0251dd1dbd91d34"
+        },
+        {
+            "type": "file",
+            "name": "img/favicon.ico",
+            "size": 4286,
+            "hash": "3df58a6a0cd53a0626c87e523947a501def7894205da3920af1d5d3873ee483f"
+        },
+        {
+            "type": "file",
+            "name": "img/friend_404.gif",
+            "size": 604315,
+            "hash": "98e6d2fd90c7a6535b0fe2b66196cf3167cfca1b94b30bb00d8146c190359d18"
+        },
+        {
+            "type": "file",
+            "name": "img/loading.gif",
+            "size": 738187,
+            "hash": "d873902329d8c055a774cae5b62af39b85f3b94048d41e0dd99008bcb4b2da83"
+        },
+        {
+            "type": "folder",
+            "name": "img/siteicon"
+        },
+        {
+            "type": "folder",
+            "name": "js/anzhiyu"
+        },
+        {
+            "type": "file",
+            "name": "js/main.js",
+            "size": 60517,
+            "hash": "7f5faf5fc27ea5b541de6745a192351db7f188b97b91e669f0d7995a70394319"
+        },
+        {
+            "type": "folder",
+            "name": "js/search"
+        },
+        {
+            "type": "file",
+            "name": "js/tw_cn.js",
+            "size": 19287,
+            "hash": "53ab00abe26ccb088bb1be259fef3d20f71c97855ba504e79d0d9dee8ea4a5f7"
+        },
+        {
+            "type": "file",
+            "name": "js/utils.js",
+            "size": 48499,
+            "hash": "aa4e4a4f9106d8858bb7b6b03f1548e47a2934cde8e44a6934a0dca12fc8e65a"
+        },
+        {
+            "type": "file",
+            "name": "music/index.html",
+            "size": 38724,
+            "hash": "d789bb3ee52b9cd07436562b2ea477cd2a7a5aa7b2bc0dc728f12b4755ebde0d"
+        },
+        {
+            "type": "file",
+            "name": "posts/16107.html",
+            "size": 52076,
+            "hash": "db4db2c9bc41b2be178465b07ce5f84f7a5950f3a69842a9fd3e694038dbf0e5"
+        },
+        {
+            "type": "file",
+            "name": "posts/3240.html",
+            "size": 52574,
+            "hash": "ebeba00b29abee58d9854056ce405fc26f3a68ebf4593580c1383586e01dcce6"
+        },
+        {
+            "type": "file",
+            "name": "posts/9087.html",
+            "size": 58613,
+            "hash": "f2e5c1cb931cb6eafdd0a98824e32c7b57163c2402b6c02fb2dd2a95e7906a09"
+        },
+        {
+            "type": "folder",
+            "name": "tags/出差"
+        },
+        {
+            "type": "folder",
+            "name": "tags/南京"
+        },
+        {
+            "type": "folder",
+            "name": "tags/常州"
+        },
+        {
+            "type": "folder",
+            "name": "tags/旅行"
+        },
+        {
+            "type": "folder",
+            "name": "archives/2020/03"
+        },
+        {
+            "type": "file",
+            "name": "archives/2020/index.html",
+            "size": 42752,
+            "hash": "cbcc482a33c661ccc6ba506f8a76954f6a8ed8bc88863bf0e4f221cc36e26c73"
+        },
+        {
+            "type": "folder",
+            "name": "archives/2023/07"
+        },
+        {
+            "type": "file",
+            "name": "archives/2023/index.html",
+            "size": 42614,
+            "hash": "990f6a0d111d9350f4f740ccf2d9dabcdb6dea371c03b2f947f9f1e734d22ec2"
+        },
+        {
+            "type": "folder",
+            "name": "archives/2024/02"
+        },
+        {
+            "type": "file",
+            "name": "archives/2024/index.html",
+            "size": 42251,
+            "hash": "c7d47aee3e0b29ec727897d93b796f0685196cf40d913373bdabc068545027b2"
+        },
+        {
+            "type": "file",
+            "name": "categories/生活日常/index.html",
+            "size": 44542,
+            "hash": "7f33c915b7752f92a0b0d6a11be5932f357409c7b548348e4369eddd19063c9b"
+        },
+        {
+            "type": "file",
+            "name": "img/siteicon/16.png",
+            "size": 283,
+            "hash": "210442de2437dace4a4649bb46e92593ab52ec9e3a5b87d85e33eb0a16cd22ea"
+        },
+        {
+            "type": "file",
+            "name": "img/siteicon/32.png",
+            "size": 431,
+            "hash": "d7071483a2fcca621d016da09ea0ce2cd3bd355a3dd3b06cdd15d5d3645a468c"
+        },
+        {
+            "type": "file",
+            "name": "img/siteicon/apple-icon-180.png",
+            "size": 2272,
+            "hash": "624b719282d1fbb98b9b9cf398f34233b5b784de8e1b39b369f3d3bfc819f170"
+        },
+        {
+            "type": "file",
+            "name": "img/siteicon/manifest-icon-192.maskable.png",
+            "size": 2329,
+            "hash": "79402919fed5c5b64237323a7dfd290fe7ebbacf012a2e302950a0835b298bf1"
+        },
+        {
+            "type": "file",
+            "name": "img/siteicon/manifest-icon-512.maskable.png",
+            "size": 6723,
+            "hash": "74c9e0b384f6e58f7c4697e1045cebca041e4f2ebe785a8a0ab0c56fc8dd7c56"
+        },
+        {
+            "type": "file",
+            "name": "js/anzhiyu/ai_abstract.js",
+            "size": 13778,
+            "hash": "f0319e899607103963a03f32a28ee331423f57719dd6f08cf4dfd58d7e74186e"
+        },
+        {
+            "type": "file",
+            "name": "js/anzhiyu/comment_barrage.js",
+            "size": 6529,
+            "hash": "25a574212595dbbdb53f0560946d044e74a7ef12127362de18cb71b43017f0c3"
+        },
+        {
+            "type": "file",
+            "name": "js/anzhiyu/people.js",
+            "size": 6959,
+            "hash": "1e05df1b617e31b952436352996f9ffbe6fe5a9a87fded733f0e9d98fbcd46bb"
+        },
+        {
+            "type": "file",
+            "name": "js/anzhiyu/random_friends_post.js",
+            "size": 9659,
+            "hash": "7f7a6e91ab31885f801ed3fe5d9cd02235168f2c61ebe5924a7b44627cf8faee"
+        },
+        {
+            "type": "file",
+            "name": "js/anzhiyu/right_click_menu.js",
+            "size": 15366,
+            "hash": "76ad3ca74178d697a66a70c252adc1e762d49cf5d66554bcf005f3f923b71292"
+        },
+        {
+            "type": "file",
+            "name": "js/search/algolia.js",
+            "size": 6115,
+            "hash": "6df35bbebe516d84b9e21ec1330fcf5abae2e09df40b5918c35103908b1a9360"
+        },
+        {
+            "type": "file",
+            "name": "js/search/local-search.js",
+            "size": 9255,
+            "hash": "d09610c7a8c842f73781c202d56a14e9e7c502ca1852d8f2aeea7f6c3f7ed1e5"
+        },
+        {
+            "type": "file",
+            "name": "tags/出差/index.html",
+            "size": 43673,
+            "hash": "551daf8d3ee914eaa820a58e9b15ab4b8b7ca294afdee3473374e2e219e57ed6"
+        },
+        {
+            "type": "file",
+            "name": "tags/南京/index.html",
+            "size": 43535,
+            "hash": "70d793bd8e7e9f8f14f96836e0f9c5fe93fa734ee45b7568cf3b4affddbb26c5"
+        },
+        {
+            "type": "file",
+            "name": "tags/常州/index.html",
+            "size": 43673,
+            "hash": "c571c34a73e8df00a83024346c4a305488fec0e3177b7402087adb4ae74318e0"
+        },
+        {
+            "type": "file",
+            "name": "tags/旅行/index.html",
+            "size": 44592,
+            "hash": "c3c53afbf779917dc44fefd60eed7b1380c9898dde4e506a7cb6c5dfb4a88175"
+        },
+        {
+            "type": "file",
+            "name": "archives/2020/03/index.html",
+            "size": 42813,
+            "hash": "ee177165beecd4a31eb0745d63352727b491b5ac51e2e97da708b2dd2c70a2a1"
+        },
+        {
+            "type": "file",
+            "name": "archives/2023/07/index.html",
+            "size": 42675,
+            "hash": "95334935aa6889931ccb27151245d129500e57c29dd833338f8983f7bc1e5be8"
+        },
+        {
+            "type": "file",
+            "name": "archives/2024/02/index.html",
+            "size": 42312,
+            "hash": "876a1d16a9d772595fa2653da2717f9db1093df2e43515cf7bfa8cffbb5e3997"
+        }
+    ]
+}
